@@ -14,13 +14,13 @@ The Power BI report includes three pages:
 ## Dashboard Preview
 
 ### Overview
-![Overview](screenshots/overview)
+![Overview](screenshots/overview.jpg)
 
 ### Drivers
-![Drivers](screenshots/drivers)
+![Drivers](screenshots/drivers.jpg)
 
 ### Hotspots
-![Hotspots](screenshots/hotspots)
+![Hotspots](screenshots/hotspots.jpg)
 
 Key totals from the report:
 - **Total Delay Minutes:** ~74K
