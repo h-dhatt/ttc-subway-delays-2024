@@ -1,5 +1,7 @@
 # TTC Subway Delays 2024 — Hotspots & Drivers
 
+Analyzed ~26K TTC subway delay records from 2024 using Python and SQL, then built a Power BI dashboard to highlight when delays spike, which stations are hotspots, and which delay codes drive the most total delay minutes.
+
 This project analyzes TTC subway delay records from 2024 to understand:
 - **When** delays occur most often (time patterns)
 - **Where** delays concentrate (station hotspots)
