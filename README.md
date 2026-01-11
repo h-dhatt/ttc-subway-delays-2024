@@ -11,6 +11,17 @@ The Power BI report includes three pages:
 2. **Drivers**: delay minutes by code family, top code descriptions, frequency vs severity
 3. **Hotspots**: stations ranked by total delay minutes and average delay minutes (with a minimum-records filter)
 
+## Dashboard Preview
+
+### Overview
+![Overview](screenshots/overview.png)
+
+### Drivers
+![Drivers](screenshots/drivers.png)
+
+### Hotspots
+![Hotspots](screenshots/hotspots.png)
+
 Key totals from the report:
 - **Total Delay Minutes:** ~74K
 - **Delay Records:** ~26K
